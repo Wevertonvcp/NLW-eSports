@@ -1,4 +1,4 @@
-<p align="center"><img width="500" src="./.github/nlw-esports-logo.svg"></p>
+<p align="center"><img width="500" src="./.github/nlw-esports-logo.png"></p>
 
 ![preview](./.github/preview.png)
 
